@@ -1,12 +1,12 @@
 ## Contents
 
-This repository contains release builds (distributions) of fpCalc for the following platforms:
+This repository contains release builds (distributions) of fpCalc for the following platforms which can be downloaded at the given links
 
-- android x86
-- android armeabi
-- android armeabi-v7a
-- windows (32bit)
-- linux (x86)
+- android x86 executable: [fpcalc](https://bitbucket.org/phorton1/fpcalc-releases/raw/master/android-x86/fpcalc.gz) library: [libfpcalc.so](https://bitbucket.org/phorton1/fpcalc-releases/raw/master/android-x86/libfpcalc.so.gz)
+- android armeabi executable: [fpcalc](https://bitbucket.org/phorton1/fpcalc-releases/raw/master/android-armeabi/fpcalc.gz) library: [libfpcalc.so](https://bitbucket.org/phorton1/fpcalc-releases/raw/master/android-armeabi/libfpcalc.so.gz)
+- android armeabi-v7a: executable: [fpcalc](https://bitbucket.org/phorton1/fpcalc-releases/raw/master/android-armeabi-v7a/fpcalc.gz) library: [libfpcalc.so](https://bitbucket.org/phorton1/fpcalc-releases/raw/master/android-armeabi-v7a/libfpcalc.so.gz)
+- windows (32bit) executable: [fpcalc.exe](https://bitbucket.org/phorton1/fpcalc-releases/raw/master/win32/fpcalc.exe.gz)
+- linux (x86) executable: [fpcalc](https://bitbucket.org/phorton1/fpcalc-releases/raw/master/linux-x86/fpcalc.gz)
 
 All libraries and executables are *statically-linked* to the degree possible, so they *should not* depend on the installation of any additional shared libraries.
 
