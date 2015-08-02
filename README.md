@@ -250,8 +250,6 @@ Please see the phorton1/chromaprint repository for details on re-creating these 
 
 These executables and librararies have been built expressely to work as closely as possible to the "official" acousticID fpcalc windows release of fpcalc.exe, of November 23, 2013 as available at http://acoustid.org.
 
-These executables and libraries are based strictly on **ffmpeg** .github release tagged as **n0.9** and a fork of the **chromaprint** .github project **v1.2**, and were specifically built using the source, scripts, and makefiles available at the phorton1/chromaprint repository.
-
-Please see the phorton1/chromaprint repository for a discussion of why this might be important.
+These executables and libraries are based strictly on **ffmpeg** tagged as release **n0.9** from the repository at https://ffmpeg.org, and a fork of the bitbucket **acoustid/chromaprint** repository **v1.2**, and were specifically built using the source, scripts, and makefiles available at the phorton1/chromaprint repository.
 
 
